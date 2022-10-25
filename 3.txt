@@ -1,0 +1,9 @@
+Venta: 3
+Cliente:
+Ani
+Empleado:
+jesus
+Articulo			Cantidad			Precio
+leche				2				15.0
+carne				4				147.0
+Total:⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉618.0

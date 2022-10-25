@@ -1,0 +1,7 @@
+Venta: 1
+Cliente:Ani
+Empleado:
+jesus
+Articulo			Cantidad			Precio
+leche				2				15.0
+Total:⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉30.0
